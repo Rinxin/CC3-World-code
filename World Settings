@@ -1,0 +1,40 @@
+
+//D&D World Population info - 
+
+//Building Placement
+Key(Name), #/Population, on road(bool), is Farm?, Placement(Any, Away, near), Distance, Dense
+Medieval Academy, 15000, Yes, No, any, 12, no
+
+//Buidling Details
+
+//Races
+race name, min age, max age, chance%, language,% known, lang2, %2 ...
+Half-elf, 25, 125, 15, english,100
+half-orc, 15, 60, 5, halforc, 100
+dwarf, 40, 250, 10, dwarven, 100
+halfling, 30, 100, 10, halfling, 100
+human, 15, 70, 40, english,100 spanish, 0
+elf, 75, 350, 10, elven, 100
+gnome, 40, 200, 10, gnome, 100
+
+//Other Info
+Adv. Backgrounds: Off-Duty Mercenary, Guardsman, Adventurer, Retired Soldier, Injury Discharged Soldier, Unemployed Mercenary, Explorer, Pirate, Adventurer, Explorer, Cutpurse
+Occupations: Town Watch Member, Private Guard, Farmer, Farmer, Farmer, Farmer, Farmer, Logger, Merchant, Armorsmith, Weaponsmith, General Blacksmith, Fisherman, Fisherman, Fisherman, Miller, Baker, Beggar, Tailor, Maid, Cook, Laborer, Laborer, Brewer
+Quirks: Well-informed, Good-looking, Good Gambler, Poor Gambler, Ugly, Dumb, Story-teller, Armorsmith, Picks nose, Bites Nails, Belligerent, Diplomatic, Stutters, Scarred Face, Loves Beer, Lazy, Filthy mouth, Shallow, Sharp, Sheepish, Overweight, Forgetful, Con man, Know-it-all, Charmer, Strong, Tattooed, Flirty, Abrasive, Friendly, Frugal, Quarrelsome, Generous, Funny, Alcoholic, Alert, Aloof, Ambitious, Angry, Argumentative, Artistic, Assertive, Audacious, Bashful, Beautiful, Honest, Helpful, Haughty, Gullible, Graceful, Gloomy, Quiet, Rash, Reckless, Reflective, Refined, Reliable, Religious, Reluctant, Reserved, Respectful, Rich, Honest, Honorable, Hot-headed, Humble, Humorous, Ignorant, Immature, Immodest, Incoherent, Indiscrete, Industrious, Inept, Sensitive, Selfish, Self-Centered, Secretive, Scruffy, Scrawny, Sarcastic, Sagely, Sadistic, Rugged, Rude, Boastful, Boisterous, Boring, Bossy, Brainy, Brash, Bratty, Brazen, Brilliant, Brutish, Bubbly, Calm, Careful, Carefree, Charismatic, Cheerful, Cheerless, Classy, Clean, Clever, Cold, Combative, Compassionate, Condescending, Considerate, Contrarian, Conversational, Courteous, Cowardly, Crabby, Cranky, Judgmental, Jealous, Jaded, Irritating, Irritable, irresponsible, Inventive, Intuitive, Introverted, Intolerant, Intimidating, Intelligent, Insincere, Inquisitive, Innocent, Shrewd, Shy, Silent, Simple, Sincere, Skillful, Sleazy, Sly, Smooth, Sneaky, Snob, Solitary, Sour, Spoiled, Spunky, Strange, Strict, Strong, Strong-willed, Stubborn, Studious, Suave, Succinct, Sullen, Superstitious, Sweet, Sympathetic, Tactful, Talkative, Tall, Melancholy, Mature, Manipulative, Malicious, Macho, Lunatic, Loyal, Loud, Logical, Likeable, Kleptomaniac, Lazy, Creepy, Cruel, Cultured, Curious, Cynical, Debonair, Deceitful, Deferential, Dependable, Determined, Diligent, Disagreeable, Discerning, Disciplined, Discreet, Dishonest, Disrespectful, Domineering, Dull, Easygoing, Eccentric, Educated, Nosy, Nimble, Naive, Miserly, Messy, Tempermental, Temperate, Tenacious, Thorough, Thoughtful, Thrifty, Timid, Tired, Touchy, Trusting, Trustworthy, Ugly, Uncooperative, Obese, Obnoxious, Observant, Opinionated, Ostentatious, Paranoid, Patient, Patriotic, Pensive, Eloquent, Emotional, Empathic, Energetic, Evasive, Fanatical, Fearful, Unforgiving, Unfriendly, Unhappy, Upbeat, Vain, Verbose, Virtuous, Wary, Wise, Withdrawn, Witty, Poor, Pleasant, Plain, Perfectionist, Frank, Focused
+Remaining Buidlings: Structure Medieval House Fat L,Structure Medieval House Other,Structure Medieval House Square,Structure Medieval House Very Fat L
+
+//Building Name Word List
+Item: Mug,Coin,Flint,Keg,Barrel,Bed,Dagger,Blade,Plow,Hearth
+Number: Two, Three, Five, Ten
+Person: Bard, Priest, Soldier, Dwarf, Elf, Gnome, Halfling, Knight, Pirate, Wife
+Animal: Orc, Ogre, Troll, Bear, Dragon, Goblin, Owl, Wolf, Dog, Fish
+Color: Black, Blue, Orange, Red, Purple, Yellow, Green, Crimson, Silver, Brass
+emotion: Laughing, Yelling, Squinting, Smoking, Angry, Drunken, Sleeping, Flying, Lost, Sad
+Tarnish: Bright, Tarnished, Rusty
+Coin: Copper-piece, Steel, Dragon, Silver-piece, Gold-piece, Shekel, Skull
+Material: Ivory, Ebony, Stone, Wooden, Golden, Steel, Glass, Mithral, Crystal, Emerald
+Thing: Brine, Sun, Rain, Sand, Stars, Clouds, Moon, Meteor, Shard, Flame
+
+//Building Naming
+Inn: The MATERIAL ANIMAL, The COLOR ANIMAL, The EMOTION ANIMAL, The EMOTION PERSON, The ANIMAL and ANIMAL, The THING and THING, The MATERIAL ITEM, The EMOTION ITEM, The ANIMAL and ITEM, The COLOR THING, The COLOR ITEM, The PERSON and ANIMAL
+Shop: The MATERIAL Coin, The TARNISH COIN, The TARNISH NUMBER COINS, NUMBER COINS and NUMBER COINS
