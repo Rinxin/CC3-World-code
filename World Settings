@@ -11,63 +11,51 @@ Medieval Academy, 15000, Yes, No, any, 12, no
 race name, min age, max age, chance%, language,% known, lang2, %2 ...
 Dragonborn, 1, 80, 10, Common, 100,Draconic, 100
 Dwarf, 1, 350, 10, Common, 100, Dwarvish, 100
-Elf, #, #, %, Common, 100, @, 
-Gnome, #, #, %, Common, 100, @, %
-Half-Elf, #, #, %, Common, 100, @, %
-Halfling, #, #, %, Common, 100, @, %
-Half-Orc, #, #, %, Common, 100, @, %
-Human, #, #, %, Common, 100, @, %
-Tiefling, #, #, %, Common, 100, @, %
+Elf, 1, 10000, 10, Common, 100, Elven, 100
+Gnome, 1, 500, 10, Common, 100, Gnomish, 100
+Half-Elf, 1, 180, 10, Common, 100, Elven, 100
+Halfling, 1, 150, 10, Common, 100, Halfling, 100
+Half-Orc, 1, 75, 10, Common, 100, Orcish, 100, Dwarvish, 100
+Human, 1, 120, 50, Common, 100
+Half-Devil (Tiefling), 1, 120, 10, Common, 100, Infernal, 100
 
-Changeling, #, #, %, Common, 100, @, %
-Kalashtar, #, #, %, Common, 100, @, %
-Shifter, #, #, %, Common, 100, @, %
-Warforged, #, #, %, Common, 100, @, %
+Changeling, 1, 120, 10, Common, 100
+Half-Spirit (Kalashtar), 1, 120, 10, Common, 100, Quori, 100
+Shifter, 1, 70, 10, Common, 100
+Warforged, 2, 15000, 1, Common, 100
 
-Aarakocra, #, #, %, Common, 100, @, %
-Genasi, #, #, %, Common, 100, @, %
-Goliath, #, #, %, Common, 100, @, %
+Aarakocra, 1, 30, 10, Common, 100, Aarakocra, 100, Auran, 100
+Half-Elemental (Genasi), 1, 150, 10, Common, 100, Primordial, 100
+Half-Giant (Goliath), 1, 120, 10, Common, 100, Giant, 100
 
-Centaur, #, #, %, Common, 100, @, %
-Loxodon, #, #, %, Common, 100, @, %
-Minotaur, #, #, %, Common, 100, @, %
+Centaur, 1, 120, 10, Common, 100, Sylvan, 100
+Loxodon, 1, 450, 10, Common, 100, Loxodon, 100
+Minotaur, 1, 40, 10, Common, 100, Minotaur, 100
 
-Aetherborn, #, #, %, Common, 100, @, %
-Aven, #, #, %, Common, 100, @, %
-Khenra, #, #, %, Common, 100, @, %
-Kor, #, #, %, Common, 100, @, %
-Merfolk, #, #, %, Common, 100, @, %
-Naga, #, #, %, Common, 100, @, %
-Siren, #, #, %, Common, 100, @, %
-Vampire, #, #, %, Common, 100, @, %
+Aven, 1, 90, 10, Common, 100, Aven, 100
+Khenra, 1, 70, 10, Common, 100, Khenra, 100
+Kor, 1, 120, 10, Common, 100, Hand Signs (Kor), 100
+Merfolk, 1, 120, 10, Common, 100
+Naga, 1, 150, 10, Common, 100, Naga, 100
+Siren, 1, 60, 10, Common, 100, Siren, 100
+Vampire, 1, 15000, 10, Common, 100
 
-Aasimar, #, #, %, Common, 100, @, %
-Bugbear, #, #, %, Common, 100, @, %
-Firbolg, #, #, %, Common, 100, @, %
-Goblin, #, #, %, Common, 100, @, %
-Hobgoblin, #, #, %, Common, 100, @, %
-Kenku, #, #, %, Common, 100, @, %
-Kobold, #, #, %, Common, 100, @, %
-Lizardfolk, #, #, %, Common, 100, @, %
-Orc, #, #, %, Common, 100, @, %
-Tabaxi, #, #, %, Common, 100, @, %
-Triton, #, #, %, Common, 100, @, %
-Yuan-ti Pureblood, #, #, %, Common, 100, @, %
+Aasimar, 1, 160, 10, Common, 100, Celestial, 100
+Bugbear, 1, 80, 10, Common, 100, Goblin, 100
+Firbolg, 1, 500, 10, Common, 100, Elvish, 100, Giant, 100
+Goblin, 1, 60, 10, Common, 100, Goblin, 100
+Hobgoblin, 1, 120, 10, Common, 100, Goblin, 100
+Kenku, 1, 60, 10, Common, 50, Auran, 50, Mimicry, 100
+Kobold, 1, 120, 10, Common, 100, Draconic, 100
+Lizardfolk, 1, 60, 10, Common, 100, Draconic, 100
+Orc, 1, 50, 10, Common, 100, Orcish, 100
+Tabaxi, 1, 120, 10, Common, 100
+Triton, 1, 200, 10, Common, 100, Primordial, 100
+Yuan-ti Pureblood, 1, 120, 10, Common, 100, Abyssal, 100, Draconic, 100
 
-Gith, #, #, %, Common, 100, @, %
-Locathah, #, #, %, Common, 100, @, %
-Tortle, #, #, %, Common, 100, @, %
-
-
-
-
-Half-elf, 25, 125, 15, english,100
-half-orc, 15, 60, 5, halforc, 100
-dwarf, 40, 250, 10, dwarven, 100
-halfling, 30, 100, 10, halfling, 100
-human, 15, 70, 40, english,100 spanish, 0
-elf, 75, 350, 10, elven, 100
-gnome, 40, 200, 10, gnome, 100
+Gith, 1, 150, 10, Common, 100, Gith, 100
+Locathah, 10, 80, 10, Common, 100, Aquan, 100
+Tortle, 15, 50, 10, Common, 100, Aquan, 100
 
 //Other Info
 Adv. Backgrounds: Off-Duty Mercenary, Guardsman, Adventurer, Retired Soldier, Injury Discharged Soldier, Unemployed Mercenary, Explorer, Pirate, Adventurer, Explorer, Cutpurse
