@@ -9,6 +9,58 @@ Medieval Academy, 15000, Yes, No, any, 12, no
 
 //Races
 race name, min age, max age, chance%, language,% known, lang2, %2 ...
+Dragonborn, 1, 80, 10, Common, 100,Draconic, 100
+Dwarf, 1, 350, 10, Common, 100, Dwarvish, 100
+Elf, #, #, %, Common, 100, @, 
+Gnome, #, #, %, Common, 100, @, %
+Half-Elf, #, #, %, Common, 100, @, %
+Halfling, #, #, %, Common, 100, @, %
+Half-Orc, #, #, %, Common, 100, @, %
+Human, #, #, %, Common, 100, @, %
+Tiefling, #, #, %, Common, 100, @, %
+
+Changeling, #, #, %, Common, 100, @, %
+Kalashtar, #, #, %, Common, 100, @, %
+Shifter, #, #, %, Common, 100, @, %
+Warforged, #, #, %, Common, 100, @, %
+
+Aarakocra, #, #, %, Common, 100, @, %
+Genasi, #, #, %, Common, 100, @, %
+Goliath, #, #, %, Common, 100, @, %
+
+Centaur, #, #, %, Common, 100, @, %
+Loxodon, #, #, %, Common, 100, @, %
+Minotaur, #, #, %, Common, 100, @, %
+
+Aetherborn, #, #, %, Common, 100, @, %
+Aven, #, #, %, Common, 100, @, %
+Khenra, #, #, %, Common, 100, @, %
+Kor, #, #, %, Common, 100, @, %
+Merfolk, #, #, %, Common, 100, @, %
+Naga, #, #, %, Common, 100, @, %
+Siren, #, #, %, Common, 100, @, %
+Vampire, #, #, %, Common, 100, @, %
+
+Aasimar, #, #, %, Common, 100, @, %
+Bugbear, #, #, %, Common, 100, @, %
+Firbolg, #, #, %, Common, 100, @, %
+Goblin, #, #, %, Common, 100, @, %
+Hobgoblin, #, #, %, Common, 100, @, %
+Kenku, #, #, %, Common, 100, @, %
+Kobold, #, #, %, Common, 100, @, %
+Lizardfolk, #, #, %, Common, 100, @, %
+Orc, #, #, %, Common, 100, @, %
+Tabaxi, #, #, %, Common, 100, @, %
+Triton, #, #, %, Common, 100, @, %
+Yuan-ti Pureblood, #, #, %, Common, 100, @, %
+
+Gith, #, #, %, Common, 100, @, %
+Locathah, #, #, %, Common, 100, @, %
+Tortle, #, #, %, Common, 100, @, %
+
+
+
+
 Half-elf, 25, 125, 15, english,100
 half-orc, 15, 60, 5, halforc, 100
 dwarf, 40, 250, 10, dwarven, 100
