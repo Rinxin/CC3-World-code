@@ -9,53 +9,49 @@ Medieval Academy, 15000, Yes, No, any, 12, no
 
 //Races
 race name, min age, max age, chance%, language,% known, lang2, %2 ...
-Dragonborn, 1, 80, 10, Common, 100,Draconic, 100
-Dwarf, 1, 350, 10, Common, 100, Dwarvish, 100
-Elf, 1, 10000, 10, Common, 100, Elven, 100
-Gnome, 1, 500, 10, Common, 100, Gnomish, 100
-Half-Elf, 1, 180, 10, Common, 100, Elven, 100
-Halfling, 1, 150, 10, Common, 100, Halfling, 100
-Half-Orc, 1, 75, 10, Common, 100, Orcish, 100, Dwarvish, 100
-Human, 1, 120, 50, Common, 100
-Half-Devil (Tiefling), 1, 120, 10, Common, 100, Infernal, 100
 
-Changeling, 1, 120, 10, Common, 100
-Half-Spirit (Kalashtar), 1, 120, 10, Common, 100, Quori, 100
-Shifter, 1, 70, 10, Common, 100
-Warforged, 2, 15000, 1, Common, 100
+Aarakocra, 1, 30, 4,  Common, 100,  Aarakocra, 100,  Auran, 100
+Aven, 1, 90, 3,  Common, 100,  Aven, 100
+Bugbear, 1, 80, 3,  Common, 100,  Goblin, 100
+Centaur, 1, 120, 2,  Common, 100,  Sylvan, 100
+Changeling, 1, 120, 2,  Common, 100
+Dragonborn, 1, 80, 3,  Common, 100, Draconic, 100
+Dwarf, 1, 350, 1,  Common, 100,  Dwarvish, 100
+Elf, 1, 10000, 1, Common, 100, Elven, 100
+Firbolg, 1, 500, 1,  Common, 100,  Elvish, 100,  Giant, 100
+Gith, 1, 150, 2,  Common, 100,  Gith, 100
+Gnome, 1, 500, 1, Common, 100, Gnomish, 100
+Goblin, 1, 60, 4,  Common, 100,  Goblin, 100
+Half-Celestial (Aasimar), 1, 160, 2,  Common, 100,  Celestial, 100
+Half-Devil (Tiefling), 1, 120, 2,  Common, 100,  Infernal, 100
+Half-Elemental (Genasi), 1, 150, 2,  Common, 100,  Primordial, 100
+Half-Elf, 1, 180, 2, Common, 100, Elven, 100
+Half-Giant (Goliath), 1, 120, 2,  Common, 100,  Giant, 100
+Halfling, 1, 150, 2, Common, 100, Halfling, 100
+Half-Orc, 1, 75, 3, Common, 100, Orcish, 100, Dwarvish, 100
+Half-Spirit (Kalashtar), 1, 120, 2,  Common, 100,  Quori, 100
+Hobgoblin, 1, 120, 2,  Common, 100,  Goblin, 100
+Human, 1, 120, 2, Common, 100
+Kenku, 1, 60, 4,  Common, 50,  Auran, 50,  Mimicry, 100
+Khenra, 1, 70, 4,  Common, 100,  Khenra, 100
+Kobold, 1, 120, 2,  Common, 100,  Draconic, 100
+Kor, 1, 120, 2,  Common, 100,  Hand Signs (Kor), 100
+Lizardfolk, 1, 60, 4,  Common, 100,  Draconic, 100
+Locathah, 1, 80, 3,  Common, 100,  Aquan, 100
+Loxodon, 1, 450, 1,  Common, 100,  Loxodon, 100
+Merfolk, 1, 120, 2,  Common, 100
+Minotaur, 1, 40, 4,  Common, 100,  Minotaur, 100
+Naga, 1, 150, 2,  Common, 100,  Naga, 100
+Orc, 1, 50, 4,  Common, 100,  Orcish, 100
+Shifter, 1, 70, 4,  Common, 100
+Siren, 1, 60, 4,  Common, 100,  Siren, 100
+Tabaxi, 1, 120, 2,  Common, 100
+Tortle, 1, 50, 4,  Common, 100,  Aquan, 100
+Triton, 1, 200, 2,  Common, 100,  Primordial, 100
+Vampire, 1, 15000, 1,  Common, 100
+Warforged, 2, 15000, 1,  Common, 100
+Yuan-ti Pureblood, 1, 120, 2,  Common, 100,  Abyssal, 100,  Draconic, 100
 
-Aarakocra, 1, 30, 10, Common, 100, Aarakocra, 100, Auran, 100
-Half-Elemental (Genasi), 1, 150, 10, Common, 100, Primordial, 100
-Half-Giant (Goliath), 1, 120, 10, Common, 100, Giant, 100
-
-Centaur, 1, 120, 10, Common, 100, Sylvan, 100
-Loxodon, 1, 450, 10, Common, 100, Loxodon, 100
-Minotaur, 1, 40, 10, Common, 100, Minotaur, 100
-
-Aven, 1, 90, 10, Common, 100, Aven, 100
-Khenra, 1, 70, 10, Common, 100, Khenra, 100
-Kor, 1, 120, 10, Common, 100, Hand Signs (Kor), 100
-Merfolk, 1, 120, 10, Common, 100
-Naga, 1, 150, 10, Common, 100, Naga, 100
-Siren, 1, 60, 10, Common, 100, Siren, 100
-Vampire, 1, 15000, 10, Common, 100
-
-Aasimar, 1, 160, 10, Common, 100, Celestial, 100
-Bugbear, 1, 80, 10, Common, 100, Goblin, 100
-Firbolg, 1, 500, 10, Common, 100, Elvish, 100, Giant, 100
-Goblin, 1, 60, 10, Common, 100, Goblin, 100
-Hobgoblin, 1, 120, 10, Common, 100, Goblin, 100
-Kenku, 1, 60, 10, Common, 50, Auran, 50, Mimicry, 100
-Kobold, 1, 120, 10, Common, 100, Draconic, 100
-Lizardfolk, 1, 60, 10, Common, 100, Draconic, 100
-Orc, 1, 50, 10, Common, 100, Orcish, 100
-Tabaxi, 1, 120, 10, Common, 100
-Triton, 1, 200, 10, Common, 100, Primordial, 100
-Yuan-ti Pureblood, 1, 120, 10, Common, 100, Abyssal, 100, Draconic, 100
-
-Gith, 1, 150, 10, Common, 100, Gith, 100
-Locathah, 10, 80, 10, Common, 100, Aquan, 100
-Tortle, 15, 50, 10, Common, 100, Aquan, 100
 
 //Other Info
 Adv. Backgrounds: Off-Duty Mercenary, Guardsman, Adventurer, Retired Soldier, Injury Discharged Soldier, Unemployed Mercenary, Explorer, Pirate, Adventurer, Explorer, Cutpurse
